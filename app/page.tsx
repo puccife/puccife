@@ -41,7 +41,7 @@ export default function Home() {
               <div className="space-y-8 max-w-2xl">
                 <p className="text-xl md:text-2xl font-light leading-relaxed text-zinc-300">
                   I am a computer scientist, 
-                  <span className="italic text-zinc-100"> passionate about design and problem solving.</span>
+                  <span className="italic text-zinc-100"> passionate about product design.</span>
                 </p>
 
                 <p className="text-xl md:text-2xl font-light text-zinc-400">
