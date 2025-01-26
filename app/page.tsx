@@ -22,7 +22,7 @@ export default function Home() {
             {/* Retro Scan Effect */}
             <div className="absolute inset-0 bg-gradient-to-b from-transparent via-zinc-100/10 to-transparent animate-scan z-20" />
             <Image
-              src="/puccife/Federico.jpg"
+              src="/Federico.jpg"
               alt="Federico Pucci"
               fill
               className="object-cover grayscale hover:grayscale-0 transition-all duration-700"
