@@ -62,7 +62,7 @@ export default function Home() {
 
                 <ul className="space-y-2">
                   <li className="text-base text-zinc-400 font-light">
-                    Co-Founded{" "}
+                    W/ Daskell, Co-Founded{" "}
                     <a
                       href="https://www.voiseed.com/"
                       target="_blank"
